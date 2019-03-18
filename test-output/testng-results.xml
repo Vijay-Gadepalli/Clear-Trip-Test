@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9402" started-at="2019-03-14T18:38:44Z" finished-at="2019-03-14T18:38:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9402" started-at="2019-03-14T18:38:44Z" finished-at="2019-03-14T18:38:53Z">
+      <class name="com.cleartrip.qa.testcases.FlightsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cleartrip.qa.testcases.FlightsPageTest@44c8afef]" name="setup" is-config="true" duration-ms="9346" started-at="2019-03-15T00:08:44Z" finished-at="2019-03-15T00:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tittlecheckup()[pri:0, instance:com.cleartrip.qa.testcases.FlightsPageTest@44c8afef]" name="tittlecheckup" duration-ms="33" started-at="2019-03-15T00:08:53Z" finished-at="2019-03-15T00:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tittlecheckup -->
+      </class> <!-- com.cleartrip.qa.testcases.FlightsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
